@@ -1,0 +1,4 @@
+github.com/podhmo/gg/integrationtests/resolve
+github.com/podhmo/gg
+golang.org/x/tools/go/loader
+go/printer
